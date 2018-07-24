@@ -1,0 +1,1 @@
+Normally I would refrain from posting a school project to Git, but I thought it well represented my experience with AVR-C style embedded programming.

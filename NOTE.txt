@@ -1,0 +1,33 @@
+A FEW THINGS TO NOTE:
+
+	On the third question the second pump we used was acting bad. 
+(see Arduino comments under question 3 code for detail)
+
+	The final 3rd question data ("Pro3Data3.txt") 
+reflect the bad pump rather than the good one, 
+because it was the pump we were checked off with for questions 2 and 3.
+
+	The figure used for question 3 ("Proj3Fig3.jpg") and ("Proj3Fig3.m")
+is the original pump's data, as it better reflects proper conditions.
+
+After the bad pump, we used the good pump again with some success, it was jumpy, but it was within a good range.
+Though it still was not as good as the first.
+So, this has been included with the data as "Proj3Data3B.txt", the produced figure can be found by using the matlab program, 
+and uncommenting lines marked "%q3B".
+
+As such, the Arduino code "FINALPROJ3.ino" has values that reflect the newest run (named 3B)
+The Bad run values can be used by uncommenting lines with "Reflects bad pump" and commenting the new values
+and can be used in place of their new values.
+
+SUMMARY: 3B DOES NOT stand for 3 Bad.
+	There were 3 versions of question 3. Original, 3 Bad, and 3B.
+
+	Data for original was lost.
+	Graph/figure for original is labeled "Proj3Fig3.jpg"/"Proj3Fig3.m" 
+	THIS IS THE BEST ONE.
+	
+	Data for Bad was labeled "Pro3Data3.txt"
+	Graph/figure was not kept.
+
+	Data for 3B is labeled "Pro3Data3B.txt"
+	Graph/figure for 3B was labeled "Proj3Fig3B.m"
